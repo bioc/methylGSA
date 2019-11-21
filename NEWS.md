@@ -1,3 +1,9 @@
+# methylGSA 1.4.2
+* Updated the definition of "promoter"
+
+# methylGSA 1.4.1
+* Minor updates on package vignette
+
 # methylGSA 1.3.5
 * Using IlluminaHumanMethylationEPICanno.ilm10b4.hg19
 
