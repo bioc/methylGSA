@@ -1,3 +1,7 @@
+# methylGSA 1.4.4
+* In methylRRA(ORA), the overlapping between significant 
+genes and genes in the gene set can be printed out
+
 # methylGSA 1.4.2
 * Updated the definition of "promoter"
 
